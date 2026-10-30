@@ -1,13 +1,13 @@
 # 👋 Hi, I’m @acdeena1994  
 
-🔹 A passionate **B.Tech CSE student** with expertise in **IoT, Embedded Systems, and Web Development**.  
-🔹 Enthusiastic about **AI, Machine Learning, and Renewable Energy-Based IoT Solutions**.  
+🔹 A passionate **B.Tech CSE student** with expertise in **IoT, Embedded Systems, and Edge AI**.  
+🔹 Enthusiastic about **AI, Machine Learning, Energy Management and Renewable Energy-Based IoT Solutions**.  
 
 ## 👀 I’m interested in ...  
 - Internet of Things (**IoT**)  
 - **Embedded Systems** & Microcontrollers (ESP8266, ESP32, Raspberry Pi)  
-- **Cloud Computing & IoT Platforms** (Blynk, ThingSpeak, AWS IoT)  
-- **Web Development** (Flask, Django, React)  
+- **Cloud Computing & IoT Platforms** (Blynk, ThingSpeak)  
+- **Web Development** (Flask, React)  
 - **Renewable Energy & Smart Automation**  
 
 ## 🌱 I’m currently learning ...  
